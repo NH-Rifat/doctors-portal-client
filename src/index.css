@@ -1,3 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .btn{
+  @apply rounded-full border-2 border-slate-300 px-2  font-semibold bg-white ;
+}
+.btn-purple{
+  @apply text-purple-600;
+}
+.btn-green{
+  @apply text-green-600;
+} */
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
