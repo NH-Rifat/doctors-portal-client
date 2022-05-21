@@ -45,7 +45,7 @@ function App() {
         <Route index element={<MyAppointments></MyAppointments>}></Route>
           <Route path='review' element={<MyReview></MyReview>}></Route>
           <Route path='history' element={<MyHistory></MyHistory>}></Route>
-          <Route path='allUsers' element={<AllUsers></AllUsers>}></Route>
+          <Route path='users' element={<AllUsers></AllUsers>}></Route>
         </Route>
       </Routes>
       <ToastContainer />
